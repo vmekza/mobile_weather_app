@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pronóstico del tiempo</string>
+    <string name="display_forecast">Pronóstico</string>
+    <string name="refresh">Actualizar</string>
+    <string name="back">Atrás</string>
+    <string name="LOCATION_NOT_DEFINED">Ubicación no definida</string>
+    <string name="sunny">soleado</string>
+    <string name="_1_m_s">1 m/s</string>
+    <string name="pirkkala">Pirkkala</string>
+    <string name="clouds">nubes</string>
+    <string name="broken_clouds">nubes rotas</string>
+    <string name="snow">nieve</string>
+    <string name="_3_m_s">3 m/s</string>
+    <string name="overcast_clouds">nubes nubladas</string>
+    <string name="more_details">más detalles</string>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="portraitText">Portrait</string>
+    <string name="landscapeText">Landscape</string>
+    <string name="display_forecast">Forecast</string>
+    <string name="refresh">Update</string>
+    <string name="back">Back</string>
+    <string name="LOCATION_NOT_DEFINED">Location not defined</string>
+    <string name="sunny">sunny</string>
+    <string name="_1_m_s">1 m/s</string>
+    <string name="pirkkala">Pirkkala</string>
+    <string name="_7">+7С</string>
+    <string name="_25_02">25.02</string>
+    <string name="_90">90%</string>
+    <string name="clouds">clouds</string>
+    <string name="broken_clouds">broken clouds</string>
+    <string name="snow">snow</string>
+    <string name="_4c">+4C</string>
+    <string name="_02_03">02.03</string>
+    <string name="_0c">0C</string>
+    <string name="_5_m_s">5 m/s</string>
+    <string name="_01_03">01.03</string>
+    <string name="message_from_main_activity">Message from main activity</string>
+    <string name="_03_03">03.03</string>
+    <string name="_3c">-3C</string>
+    <string name="_3_m_s">3 m/s</string>
+    <string name="app_name">Weather Forecast</string>
+    <string name="overcast_clouds">overcast clouds</string>
+    <string name="more_details">more details</string>
+</resources>
